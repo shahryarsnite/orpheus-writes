@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Orpheus Writes</title>
+    <link href="https://shahryarsnite.github.io/orpheus-writes/feed.xml" rel="self" />
+    <link href="https://shahryarsnite.github.io/orpheus-writes" />
+    <updated>2022-10-02T15:49:59-05:00</updated>
+    <author>
+        <name>酒瓶子</name>
+    </author>
+    <id>https://shahryarsnite.github.io/orpheus-writes</id>
+
+    <entry>
+        <title>first post test</title>
+        <author>
+            <name>酒瓶子</name>
+        </author>
+        <link href="https://shahryarsnite.github.io/orpheus-writes/first-post-test.html"/>
+        <id>https://shahryarsnite.github.io/orpheus-writes/first-post-test.html</id>
+
+        <updated>2022-10-02T15:49:59-05:00</updated>
+            <summary>
+                <![CDATA[
+                    test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test</p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>
