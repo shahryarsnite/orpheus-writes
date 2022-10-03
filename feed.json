@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://shahryarsnite.github.io/orpheus-writes/first-post-test.html",
-            "url": "https://shahryarsnite.github.io/orpheus-writes/first-post-test.html",
+            "id": "https://shahryarsnite.github.io/orpheus-writes/first-post-test/",
+            "url": "https://shahryarsnite.github.io/orpheus-writes/first-post-test/",
             "title": "first post test",
             "summary": "test",
             "content_html": "<p>test</p>\n",
